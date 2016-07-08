@@ -1,7 +1,12 @@
+.container {
+	margin:0;
+	padding: 0;
+}
+
 .video-wrapper {
-	width:80%; 
+	width:60%; 
 	height:100%; 
-	margin:0 10% 0% 10%;
+	margin:40px 20% 0% 20%;
 }
 
 .feed-iframe iframe {
@@ -14,5 +19,5 @@
 
 .feed-iframe {
 	position:relative; 
-	padding-top: 67%;
+	padding-top: 57%;
 }
