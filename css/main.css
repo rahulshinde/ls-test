@@ -67,7 +67,7 @@ h1 {
 }
 
 h2 {
-	margin-top: 40px;
+	margin-top: 80px;
 	margin-bottom: 40px;
 	width: 90%;
 	margin-left: 5%;
@@ -204,6 +204,10 @@ img {
 		margin-left:18%;
 	}
 
+	h2 {
+		margin-top: 55px;
+	}
+
 	.video-wrapper {
 		width:90%; 
 		height:100%; 
@@ -235,7 +239,7 @@ img {
 	}
 
 	h2 {
-		margin-top: 30px;
+		margin-top: 60px;
 	}
 
 	.video-wrapper {
