@@ -99,7 +99,6 @@ h3 {
 img {
 	width: 20%;
 	margin-left: 40%;
-	margin-bottom: 20px;
 }
 
 .screen-iframe iframe,
@@ -149,6 +148,10 @@ img {
 		width:70%; 
 		height:100%; 
 		margin:0px 15% 0px 15%;
+	}
+
+	img {
+		margin-top: 30px;
 	}
 		
 }
