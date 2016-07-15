@@ -63,7 +63,7 @@ h1 {
 	margin-left: 25%;
 	text-align: center;
 
-	color:#7c0000;
+	/*color:#7c0000;*/
 }
 
 h2 {
@@ -101,7 +101,7 @@ h3 {
 }
 
 img {
-	margin-top: 40px;
+	margin-top: 50px;
 	width: 30%;
 	margin-left: 35%;
 }
